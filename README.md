@@ -16,6 +16,13 @@ Easily upload, download, and manage files on your local network using a web inte
 - Open the server's IP address and port in a browser (e.g., `http://192.168.1.5:3000`).
 
 
+## Demo Videos
+
+See Local File Server in action!  
+- [Demo Video 1: Installation and First File Upload](https://drive.google.com/file/d/1nTNC_cz4A5bGtI6m2DByo45rKcEypqQ9/view?usp=drive_link)  
+- [Demo Video 2: Quick Upload & Download Workflow](https://drive.google.com/file/d/1cGGvLsimNPc_FUry6vQH9ROXmL-qUSZa/view?usp=drive_link)
+
+
 ## Notes
 
 - Uploaded files are stored in the `uploads` folder next to the executable.
